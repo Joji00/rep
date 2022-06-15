@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/CMakeProject1/out/build/x64-debug
+/CMakeProject1/.vs
+/.vs
