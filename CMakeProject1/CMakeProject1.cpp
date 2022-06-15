@@ -7,6 +7,11 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello CMake." << endl;
+	cout << "LOOOOOMMMMIIIII CMake." << endl;
+	cout << "LOOOOOMMMMIIIII CMake." << endl;
+	cout << "LOOOOOMMMMIIIII CMake." << endl;
+	cout << "LOOOOOMMMMIIIII CMake." << endl;
+	cout << "LOOOOOMMMMIIIII CMake." << endl;
+	cout << "LOOOOOMMMMIIIII CMake." << endl;
 	return 0;
 }
