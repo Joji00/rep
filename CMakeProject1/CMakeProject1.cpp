@@ -7,9 +7,7 @@ using namespace std;
 
 int main()
 {
-	cout << "LOOOOOMMMMIIIII CMake." << endl;
-	cout << "LOOOOOMMMMIIIII CMake." << endl;
-	cout << "love me CMake." << endl;
+	cout << "shit";
 	cout << "LOOOOOMMMMIIIII CMake." << endl;
 	return 0;
 }
